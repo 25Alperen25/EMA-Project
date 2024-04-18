@@ -1,0 +1,25 @@
+# Systemdateien
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+MicrosoftEdgeBackups/
+Music/
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+node_modules/
+*.DAT
+*.LOG1
+*.LOG2
+*.ini
+
+# Visual Studio Code Ordner
+.vscode/
+
+# Entwicklungs-Tools spezifische Ordner
+eclipse-workspace/
